@@ -34,6 +34,8 @@ Challenge cung cấp cho chúng ta một trang web như sau
 3. Vậy thì ta chỉ cần sửa lại giá trị `user-agent` thành `admin` là xong
 ![Alt text](image-2.png)
 
+4. Kết quả là :
+
 ![Alt text](image.png)
 
 Mật khẩu : rr$Li9%L34qd1AAe27

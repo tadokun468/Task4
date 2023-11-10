@@ -53,6 +53,7 @@ Yêu cầu : Get an administrator access to the webpage.
 3. Ta thấy ta dòng `Header-RootMe-Admin: none`
 
 4. Cho nên ta chỉ cần thêm dòng `Header-RootMe-Admin: true` vào request là sẽ ra kết quả :
+
 ![Alt text](image-3.png)
 
 Mật khẩu : HeadersMayBeUseful

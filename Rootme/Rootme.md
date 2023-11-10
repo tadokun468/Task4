@@ -1,4 +1,4 @@
-## `HTTP - IP restriction bypass`
+## `Challenge : HTTP - IP restriction bypass`
 **Only local users will be able to access the page**
 
 Yêu cầu : 
@@ -21,7 +21,7 @@ Và địa chỉ ip được gán một cách tự động .
 
 Mật khẩu : Ip_$po0Fing  
 
-## `HTTP - User-agent`
+## `Challenge : HTTP - User-agent`
 `Author : g0uZ`
 
 NOTE : User-Agent: cung cấp thông tin về trình duyệt hoặc phần mềm client khác đã tạo ra yêu cầu.
@@ -40,7 +40,7 @@ Challenge cung cấp cho chúng ta một trang web như sau
 
 Mật khẩu : rr$Li9%L34qd1AAe27
 
-## `HTTP - Headers`
+## `Challenge : HTTP - Headers`
 
 Yêu cầu : Get an administrator access to the webpage.
 
@@ -58,7 +58,7 @@ Yêu cầu : Get an administrator access to the webpage.
 
 Mật khẩu : HeadersMayBeUseful
 
-## `HTTP - POST`
+## `Challenge : HTTP - POST`
 `Author : Th1b4ud`
 
 Yêu cầu : Find a way to beat the top score!

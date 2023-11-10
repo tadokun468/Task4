@@ -16,6 +16,7 @@ Và địa chỉ ip được gán một cách tự động .
 ![Alt text](image-13.png)
 
 4. `Forward` và ta được kết quả :
+
 ![Alt text](image-14.png)
 
 Mật khẩu : Ip_$po0Fing  

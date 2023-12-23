@@ -10,8 +10,7 @@ The network admin
 1. Thử thách cung cấp cho ta trang web như sau 
 ![Alt text](image-12.png)
 
-Và địa chỉ ip được gán một cách tự động .
-3. Đề bài yêu cầu phải là `local user` thì sẽ có thể đăng nhập mà không cần mật khẩu, do vậy ta chỉ cần sửa thành một địa chỉ ip hợp lệ là được , bạn có thể gõ câu lệnh `ipconfig` để lấy địa chỉ ipv4 của bạn. Sau khi có được địa chỉ ip hợp lệ ta chi cần sửa thông qua Header `X-Forwarded-For`
+Và địa chỉ ip được gán một cách tự động . Đề bài yêu cầu phải là `local user` thì sẽ có thể đăng nhập mà không cần mật khẩu, do vậy ta chỉ cần sửa thành một địa chỉ ip hợp lệ là được , bạn có thể gõ câu lệnh `ipconfig` để lấy địa chỉ ipv4 của bạn. Sau khi có được địa chỉ ip hợp lệ ta chi cần sửa thông qua Header `X-Forwarded-For`
 - Header X-Forwarded-For thường được sử dụng để truyền đạt thông tin về địa chỉ IP của client khi có các proxy ở giữa client và máy chủ web. Mục đích là giúp máy chủ web có thể biết đến địa chỉ IP của người dùng cuối cùng mặc dù có các lớp trung gian.
 3. Thêm vào Header `X-Forwarded-For:192.168.43.58`
 ![Alt text](image-13.png)
